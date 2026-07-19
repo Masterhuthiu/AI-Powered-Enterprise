@@ -32,6 +32,7 @@ Tận dụng AI trong hệ thống ERP để tối ưu hóa quản lý tài nguy
 * **Đánh giá hiện trạng**: Tìm điểm yếu trong quản lý tài chính và nhân sự.
 * **Lập kế hoạch tích hợp**: Ứng dụng Machine Learning và xử lý ngôn ngữ tự nhiên (NLP).
 * **Tự động hóa tài chính**: Dự đoán nhu cầu vốn và phân tích rủi ro khách hàng tự động.
+image::chat.PNG[alt="Chat Screenshot", width=600]
 
 === 3. Đối với Công ty Dịch vụ & Chăm sóc Khách hàng
 Tích hợp AI vào CRM để đa dạng hóa kênh tương tác (Phone, Email, Social Media):
